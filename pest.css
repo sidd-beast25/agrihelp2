@@ -124,6 +124,10 @@ img{
     cursor: .pointer;
 }
 
+.desc{
+    padding: 10px;
+}
+
 @media  screen and (max-width:1100px){
     .group{width: 550px;}
     .group .list{
